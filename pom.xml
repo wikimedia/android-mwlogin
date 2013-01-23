@@ -12,7 +12,6 @@
     <modules>
         <module>mwlogin</module>
         <module>mwlogin-it</module>
-        <module>libs/java-mwapi</module>
     </modules>
 
     <properties>
@@ -43,11 +42,6 @@
                 <type>apklib</type>
             </dependency>
 
-            <dependency>
-                <groupId>android.support</groupId>
-                <artifactId>compatibility-v4</artifactId>
-                <version>11</version>
-            </dependency>
 
             <!-- Androlog is a logging and reporting library for Android -->
             <dependency>

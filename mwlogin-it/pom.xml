@@ -40,12 +40,6 @@
       <classifier>${zipaligned-classifier}</classifier> <!--  classifier set according to the ran profile -->
     </dependency>
     <dependency>
-      <groupId>org.wikimedia</groupId>
-      <artifactId>mwlogin</artifactId>
-      <type>jar</type>
-      <version>1.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
        <groupId>junit</groupId>
        <artifactId>junit</artifactId>
      </dependency>

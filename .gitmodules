@@ -1,3 +1,0 @@
-[submodule "libs/java-mwapi"]
-	path = libs/java-mwapi
-	url = http://github.com/wikimedia/java-mwapi.git

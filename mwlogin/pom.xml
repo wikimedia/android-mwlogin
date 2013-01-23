@@ -25,20 +25,15 @@
       <artifactId>androlog</artifactId>
     </dependency>
     <dependency>
-        <groupId>android.support</groupId>
-        <artifactId>compatibility-v4</artifactId>
-        <version>11</version>
-    </dependency>
-    <dependency>
         <groupId>com.actionbarsherlock</groupId>
         <artifactId>actionbarsherlock</artifactId>
         <version>4.2.0</version>
         <type>apklib</type>
     </dependency>
       <dependency>
-          <groupId>org.wikimedia</groupId>
+          <groupId>org.mediawiki</groupId>
           <artifactId>api</artifactId>
-          <version>1.0-SNAPSHOT</version>
+          <version>1.0</version>
       </dependency>
   </dependencies>
 
